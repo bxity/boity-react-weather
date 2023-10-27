@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+
 import "./App.css";
 import Weather from "./Weather";
 
@@ -9,7 +9,7 @@ function App() {
         <Weather defaultCity="Paris"/>
       <footer>
         This project was coded by Boitumelo Vilakazi and is{" "}
-        <a href="https://github.com/bxity/boity-react-weather" target="_blank">
+        <a href="https://github.com/bxity/boity-react-weather" target="_blank" rel="noreferrer">
           open-sourced on GitHub
         </a>
       </footer>
