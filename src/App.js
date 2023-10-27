@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather/>
+        <Weather defaultCity="Paris"/>
       <footer>
         This project was coded by Boitumelo Vilakazi and is{" "}
         <a href="https://github.com/bxity/boity-react-weather" target="_blank">
