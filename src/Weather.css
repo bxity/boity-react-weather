@@ -33,10 +33,7 @@
     line-height: 64px;
 }
 .Weather canvas {
-    height: 64px;
-    display: inline-block;
-    margin-right: 10px;
-    width: 64px;
+    margin: 10px auto;
 }
 .Weather .unit {
    color: rgb(33, 33, 33);
