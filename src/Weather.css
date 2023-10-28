@@ -1,7 +1,7 @@
 .Weather {
     border: 1px solid #dadde1;
-    font-family: Arial, sans-serif;
-    color: rgb(135, 135, 135);
+    font-family: 'Playpen Sans', cursive;
+    color: darkmagenta;
     padding: 16px;
     border-radius: 4px;
     max-width: 600px;
@@ -42,4 +42,10 @@
    position: relative;
    top: -34px;
    margin-left: 0px;
+}
+
+@media (max-width: 1400px) {
+    .Weather {
+        font-size: 12px;
+    }
 }
